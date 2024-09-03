@@ -1,0 +1,9 @@
+#include <iostream>  // Library untuk input dan output
+
+using namespace std; // Menggunakan namespace std sehingga tidak perlu mengetik std::
+
+int main() {
+    // Menampilkan pesan ke layar
+    cout << "Hello world, my name is Riva" << endl;
+    return 0;  // Menandakan program selesai dengan sukses
+}
